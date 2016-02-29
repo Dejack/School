@@ -1,0 +1,9 @@
+C:\Users\Student\Desktop\COMP 3951 Lab 01\COMP 3951 Lab 01\bin\Debug\COMP 3951 Lab 01.exe.config
+C:\Users\Student\Desktop\COMP 3951 Lab 01\COMP 3951 Lab 01\bin\Debug\COMP 3951 Lab 01.exe
+C:\Users\Student\Desktop\COMP 3951 Lab 01\COMP 3951 Lab 01\bin\Debug\COMP 3951 Lab 01.pdb
+C:\Users\Student\Desktop\COMP 3951 Lab 01\COMP 3951 Lab 01\obj\Debug\COMP_3951_Lab_01.Form1.resources
+C:\Users\Student\Desktop\COMP 3951 Lab 01\COMP 3951 Lab 01\obj\Debug\COMP_3951_Lab_01.Properties.Resources.resources
+C:\Users\Student\Desktop\COMP 3951 Lab 01\COMP 3951 Lab 01\obj\Debug\COMP 3951 Lab 01.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\COMP 3951 Lab 01\COMP 3951 Lab 01\obj\Debug\COMP 3951 Lab 01.exe
+C:\Users\Student\Desktop\COMP 3951 Lab 01\COMP 3951 Lab 01\obj\Debug\COMP 3951 Lab 01.pdb
+C:\Users\Student\Desktop\COMP 3951 Lab 01\COMP 3951 Lab 01\obj\Debug\COMP 3951 Lab 01.csprojResolveAssemblyReference.cache

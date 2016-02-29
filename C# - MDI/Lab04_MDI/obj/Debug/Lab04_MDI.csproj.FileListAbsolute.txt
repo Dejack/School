@@ -1,0 +1,13 @@
+c:\users\ben\documents\visual studio 2015\Projects\Lab04_MDI\Lab04_MDI\bin\Debug\Lab04_MDI.exe.config
+c:\users\ben\documents\visual studio 2015\Projects\Lab04_MDI\Lab04_MDI\bin\Debug\Lab04_MDI.exe
+c:\users\ben\documents\visual studio 2015\Projects\Lab04_MDI\Lab04_MDI\bin\Debug\Lab04_MDI.pdb
+c:\users\ben\documents\visual studio 2015\Projects\Lab04_MDI\Lab04_MDI\obj\Debug\Lab04_MDI.csprojResolveAssemblyReference.cache
+c:\users\ben\documents\visual studio 2015\Projects\Lab04_MDI\Lab04_MDI\obj\Debug\Lab04_MDI.parentForm.resources
+c:\users\ben\documents\visual studio 2015\Projects\Lab04_MDI\Lab04_MDI\obj\Debug\Lab04_MDI.Properties.Resources.resources
+c:\users\ben\documents\visual studio 2015\Projects\Lab04_MDI\Lab04_MDI\obj\Debug\Lab04_MDI.csproj.GenerateResource.Cache
+c:\users\ben\documents\visual studio 2015\Projects\Lab04_MDI\Lab04_MDI\obj\Debug\Lab04_MDI.exe
+c:\users\ben\documents\visual studio 2015\Projects\Lab04_MDI\Lab04_MDI\obj\Debug\Lab04_MDI.pdb
+c:\users\ben\documents\visual studio 2015\Projects\Lab04_MDI\Lab04_MDI\obj\Debug\Lab04_MDI.sizeSelectionForm.resources
+c:\users\ben\documents\visual studio 2015\Projects\Lab04_MDI\Lab04_MDI\obj\Debug\Lab04_MDI.ImageForm.resources
+c:\users\ben\documents\visual studio 2015\Projects\Lab04_MDI\Lab04_MDI\obj\Debug\Lab04_MDI.WebSelectionForm.resources
+c:\users\ben\documents\visual studio 2015\Projects\Lab04_MDI\Lab04_MDI\obj\Debug\Lab04_MDI.CloseForm.resources

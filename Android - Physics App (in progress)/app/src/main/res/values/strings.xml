@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Physics</string>
+
+    <string-array name="unitsTime">
+        <item>msec</item>
+        <item>sec</item>
+        <item>min</item>
+        <item>hour</item>
+        <item>day</item>
+        <item>week</item>
+        <item>month</item>
+        <item>year</item>
+    </string-array>
+
+    <string-array name="unitsLength">
+        <item>µm</item>
+        <item>mm</item>
+        <item>cm</item>
+        <item>dm</item>
+        <item>m</item>
+        <item>km</item>
+        <item>inch</item>
+        <item>ft</item>
+        <item>yd</item>
+        <item>mile</item>
+    </string-array>
+
+    <string-array name="mainMenu">
+        <item>Unit Converter</item>
+        <item>Kinematics</item>
+        <item>Dynamics</item>
+        <item>Work, Energy, Power</item>
+        <item>Momentum</item>
+        <item>Equilibrium</item>
+        <item>Circular Motion</item>
+        <item>Electrostatics</item>
+        <item>Electric Circuits</item>
+        <item>Electromagnetism</item>
+
+    </string-array>
+</resources>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="project.comp3717.bcit.ca.physics.MainActivity"
+    android:background="#ece4c8">
+    <HorizontalScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="60dp"
+        android:id="@+id/topicScrollView"
+        android:layout_marginTop="50dp">
+        <LinearLayout
+            android:layout_below="@+id/inputLayout"
+            android:layout_width="wrap_content"
+            android:layout_height="60dp"
+            android:orientation="horizontal" >
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="55dp"
+                android:text="Length"
+                android:id="@+id/buttonLength"
+                android:background="@drawable/button_style" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="55dp"
+                android:text="Time"
+                android:id="@+id/buttonTime"
+                android:background="@drawable/button_style"/>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="55dp"
+                android:text="Pizza"
+                android:id="@+id/buttonLength3"
+                android:background="@drawable/button_style"/>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="55dp"
+                android:text="Coffee"
+                android:id="@+id/buttonLength4"
+                android:background="@drawable/button_style"/>
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="55dp"
+                android:text="Apple Pie"
+                android:id="@+id/buttonLength5"
+                android:background="@drawable/button_style"/>
+        </LinearLayout>
+    </HorizontalScrollView>
+
+    <LinearLayout
+        android:id="@+id/inputLayout"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_below="@+id/topicScrollView"
+        android:layout_marginTop="-5dp"
+        android:layout_alignParentLeft="true"
+        android:background="@drawable/layout_style">
+
+        <EditText
+            android:id="@+id/inputText"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_width="185dp"
+            android:layout_height="40dp"
+            android:padding="8dp"
+            android:inputType="number"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:textColor="#000000"
+            android:ems="10"
+            android:singleLine="true"
+            android:background="@drawable/textview_style"
+            android:maxLength="14"
+            android:cursorVisible="false"
+            android:hint="0" />
+
+        <LinearLayout
+            android:id="@+id/unitLayout"
+            android:layout_alignParentLeft="true"
+            android:orientation="vertical"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_width="135dp"
+            android:layout_height="40dp"
+            android:background="#e2dfd7">
+
+            <Spinner
+                android:id="@+id/unitSpinner"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1" />
+
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>
